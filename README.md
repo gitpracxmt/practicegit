@@ -1,3 +1,3 @@
-# practicegit
+# Git Practice
 
-Git Practice
+This is an updated readme
